@@ -1,0 +1,10 @@
+.formulario{
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-image: url("../../../assets/11461.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    height: 950px;
+}
